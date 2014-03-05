@@ -8,3 +8,5 @@ print  "But this is being added on develop branch"
 and this should be in the feature branch. """
 
 print "Hello, I am writing this in new lines 2"
+
+print "I've added this line after I commited index.html so this shouldn't show up"
